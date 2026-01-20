@@ -9,8 +9,10 @@ Multimodal data sources are becoming increasingly important across a wide range 
   
 * <code> SRC/MULTIMODAL </code> The details for each notebook file are as follows:
   - <code>H01_VOLX_dataset_creation.ipynb</code>: This module is to create the multimodal time series-image dataset in a single notebook file.
-  - <code>H02_VXframework_vXDoubleT.ipynb</code>: This module contains the framework components.
+  - <code>H02_VXframework_vXDoubleT.ipynb</code>: This module contains the framework components and example demonstration on segments S1 and S2.
+  - <code>H03_V3framework_v3DoubleT.ipynb: This module contains the framework components and contains the experimental demo on the rest of segments (S1 and S2), (S2 and S3), (S3 and S4), (S4 and S5).
     
+# MORE TO COME!   
 # Execution Details 
 * To view our modules, experiments, and results in a single file, given modules are sufficient.
 * Since SWAN-SF is a large dataset, we do not include the preprocessed dataset in DATA\Preprocessed-SWANSF-main, if you need to train the components and start the experiments from scratch, don't hesitate to contact us!
